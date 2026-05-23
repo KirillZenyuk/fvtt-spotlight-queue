@@ -1,0 +1,20 @@
+{
+  "FVTT_SPOTLIGHT_QUEUE.ModuleName": "Spotlight Queue",
+  "FVTT_SPOTLIGHT_QUEUE.ControlsLabel": "Spotlight queue controls",
+  "FVTT_SPOTLIGHT_QUEUE.QueueTitle": "Spotlight Queue",
+  "FVTT_SPOTLIGHT_QUEUE.NoRequests": "No requests",
+  "FVTT_SPOTLIGHT_QUEUE.UnknownUser": "Unknown user",
+  "FVTT_SPOTLIGHT_QUEUE.DragHandleTitle": "Drag to move. Double-click to reset position.",
+  "FVTT_SPOTLIGHT_QUEUE.RequestTypeSpeak": "Speak",
+  "FVTT_SPOTLIGHT_QUEUE.RequestTypeAct": "Act",
+  "FVTT_SPOTLIGHT_QUEUE.RequestTypeReact": "React",
+  "FVTT_SPOTLIGHT_QUEUE.RequestTypeQuestion": "Question",
+  "FVTT_SPOTLIGHT_QUEUE.Urgent": "Urgent",
+  "FVTT_SPOTLIGHT_QUEUE.CancelRequest": "cancel request",
+  "FVTT_SPOTLIGHT_QUEUE.NoActiveGM": "No active GM",
+  "FVTT_SPOTLIGHT_QUEUE.ClearQueue": "Clear queue",
+  "FVTT_SPOTLIGHT_QUEUE.ClearQueueConfirm": "Clear the entire spotlight queue?",
+  "FVTT_SPOTLIGHT_QUEUE.MoveUp": "Move up",
+  "FVTT_SPOTLIGHT_QUEUE.MoveDown": "Move down",
+  "FVTT_SPOTLIGHT_QUEUE.ResolveRequest": "Resolve request"
+}

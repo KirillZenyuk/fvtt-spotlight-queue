@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/foundryvtt-module-manifest.json",
+  "id": "fvtt-spotlight-queue",
+  "title": "Spotlight Queue",
+  "description": "A lightweight Foundry VTT module for managing a player spotlight queue.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kirill Zenyuk"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "esmodules": [
+    "scripts/spotlight-queue.js"
+  ],
+  "styles": [
+    "styles/spotlight-queue.css"
+  ],
+  "socket": true,
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "license": "LICENSE",
+  "readme": "README.md"
+}
